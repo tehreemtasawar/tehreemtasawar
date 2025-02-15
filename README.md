@@ -10,7 +10,6 @@ I am a **Computer Science** student at IIUI, currently in my **4th semester**, w
 - *Best practices in web and app development* to write clean and maintainable code.  
 
 ## 📫 How to Reach Me  
-- *GitHub*: [GitHub Profile](https://github.com/YourGitHubUsername)  
 - *Email*: [Email ID](timmisyeda@gmail.com)  
 - *Linkedin*: [Linkedin Profile](https://www.linkedin.com/in/syeda-tehreem-tasawar-0840b3329)
 
