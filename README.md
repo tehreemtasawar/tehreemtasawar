@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**Timmi-01/Timmi-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science** student at IIUI, currently in my **4th semester**, with a strong passion for **software development and problem-solving**. My focus is on mastering C++, understanding software engineering principles, and now expanding into **web and app development** to build structured, efficient, and maintainable software.  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning  
+- *Web Development*: Exploring front-end and back-end technologies.  
+- *App Development*: Learning how to build scalable and user-friendly mobile applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤔 Looking for Help With  
+- *Best practices in web and app development* to write clean and maintainable code.  
+
+## 📫 How to Reach Me  
+- *GitHub*: [GitHub Profile](https://github.com/YourGitHubUsername)  
+- *Email*: [Email ID](timmisyeda@gmail.com)  
+- *Linkedin*: [Linkedin Profile](https://www.linkedin.com/in/syeda-tehreem-tasawar-0840b3329)
+
+## ⚡ Fun Fact  
+- I enjoy exploring *new technologies* and continuously improving my skills in software development.
