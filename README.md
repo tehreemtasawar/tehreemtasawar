@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there I am **Syeda Tehreem Tasawar**👋 
 
 I am a **Computer Science** student at IIUI, currently in my **4th semester**, with a strong passion for **software development and problem-solving**. My focus is on mastering C++, understanding software engineering principles, and now expanding into **web and app development** to build structured, efficient, and maintainable software.  
 
