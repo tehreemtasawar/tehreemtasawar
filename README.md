@@ -1,42 +1,74 @@
-## Hi there I am **Syeda Tehreem Tasawar**👋 
+# Hi there, I am Syeda Tehreem Tasawar 👋
 
-I am a **Computer Science** student at IIUI, currently in my **5th semester**, with a strong passion for **software development and problem-solving**. My focus is on mastering C++, understanding software engineering principles, and now expanding into **web and app development** to build structured, efficient, and maintainable software.  
+🎓 Computer Science undergraduate at IIUI — 6th Semester  
+💡 Passionate about building real world applications  
+🌍 Islamabad, Pakistan  
 
-## 🌱 Currently Learning  
-- *Web Development*: Exploring front-end and back-end technologies.  
-- *App Development*: Learning how to build scalable and user-friendly mobile applications.  
+---
 
-## 🤔 Looking for Help With  
-- *Best practices in web and app development* to write clean and maintainable code.  
+## About Me
 
-## 📫 How to Reach Me  
-- *Email*: [Email ID](timmisyeda@gmail.com)  
-- *Linkedin*: [Linkedin Profile](https://www.linkedin.com/in/syeda-tehreem-tasawar)
+I am a CS student with hands on experience in building 
+desktop applications, algorithm based systems, and AI 
+integrated projects. I enjoy combining multiple technologies 
+together to solve real problems.
 
-## ⚡ Fun Fact  
-- I enjoy exploring *new technologies* and continuously improving my skills in software development.
+I have worked with Java, C++, Python, and SQL across 
+academic projects that range from gamified learning 
+platforms to graph based navigation systems.
 
-## 🛠 Languages & Tools
-<div align="center">
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ logo"/>
-  </a>
-  <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="C logo"/>
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="HTML logo"/>
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" alt="CSS logo"/>
-  </a>
-  <img width="12" />
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="Python logo"/>
-  </a>
-</div>
+Currently exploring Cybersecurity and Artificial Intelligence.
 
-###
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+**Database**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Tehreem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tehreemtasawar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehreemtasawar&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌱 Currently Learning
+
+* Cybersecurity
+* Artificial Intelligence
+
+---
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syeda%20Tehreem%20Tasawar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syeda-tehreem-tasawar)
+[![Email](https://img.shields.io/badge/Email-timisyeda%40gmail.com-red?style=flat&logo=gmail)](mailto:timisyeda@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I love building projects that combine multiple technologies 
+together into one working application.
+
+---
+
+⭐ Feel free to explore my repositories and leave a star 
+if you find something useful!
