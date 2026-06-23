@@ -1,6 +1,6 @@
 # Hi there, I am Syeda Tehreem Tasawar 👋
 
-🎓 Computer Science undergraduate at IIUI — 6th Semester  
+🎓 Computer Science undergraduate at IIUI, 6th Semester  
 💡 Passionate about building real world applications  
 🌍 Islamabad, Pakistan  
 
